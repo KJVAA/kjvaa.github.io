@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.kjvaa.online/README.html</loc>
+    <loc>http://blog.kjvaa.online/2020/04/20/%E6%B5%8B%E8%AF%952/</loc>
     
-    <lastmod>2020-04-20T04:56:07.665Z</lastmod>
+    <lastmod>2020-04-20T13:25:10.568Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.kjvaa.online/2020/04/20/hello-world/</loc>
+    <loc>http://blog.kjvaa.online/2020/04/20/%E6%B5%8B%E8%AF%951/</loc>
     
-    <lastmod>2020-04-20T04:39:25.300Z</lastmod>
+    <lastmod>2020-04-20T13:24:56.389Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.kjvaa.online/tags/index.html</loc>
+    
+    <lastmod>2020-04-20T13:23:45.210Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.kjvaa.online/categories/index.html</loc>
+    
+    <lastmod>2020-04-20T13:12:24.054Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.kjvaa.online/README.html</loc>
+    
+    <lastmod>2020-04-20T04:56:07.665Z</lastmod>
     
   </url>
   
