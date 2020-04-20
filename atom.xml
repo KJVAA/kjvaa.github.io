@@ -5,9 +5,9 @@
   <subtitle>衔尾蛇</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://blog.kjvaa.online/"/>
   <updated>2020-04-20T04:39:25.300Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://blog.kjvaa.online/</id>
   
   <author>
     <name>kjvaa</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/04/20/hello-world/"/>
-    <id>http://yoursite.com/2020/04/20/hello-world/</id>
+    <link href="http://blog.kjvaa.online/2020/04/20/hello-world/"/>
+    <id>http://blog.kjvaa.online/2020/04/20/hello-world/</id>
     <published>2020-04-20T04:39:25.300Z</published>
     <updated>2020-04-20T04:39:25.300Z</updated>
     
