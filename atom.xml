@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>kjvaa的随想</title>
+  <title>kjvaa&#39;s note</title>
   
   <subtitle>被动强制ing</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试2</title>
-    <link href="http://blog.kjvaa.online/2020/04/20/%E6%B5%8B%E8%AF%952/"/>
-    <id>http://blog.kjvaa.online/2020/04/20/%E6%B5%8B%E8%AF%952/</id>
+    <link href="http://blog.kjvaa.online/post/2020/04/20/%E6%B5%8B%E8%AF%952/"/>
+    <id>http://blog.kjvaa.online/post/2020/04/20/%E6%B5%8B%E8%AF%952/</id>
     <published>2020-04-20T13:19:28.000Z</published>
     <updated>2020-04-20T13:25:10.568Z</updated>
     
@@ -37,10 +37,10 @@
   
   <entry>
     <title>测试1</title>
-    <link href="http://blog.kjvaa.online/2020/04/20/%E6%B5%8B%E8%AF%951/"/>
-    <id>http://blog.kjvaa.online/2020/04/20/%E6%B5%8B%E8%AF%951/</id>
+    <link href="http://blog.kjvaa.online/post/2020/04/20/%E6%B5%8B%E8%AF%951/"/>
+    <id>http://blog.kjvaa.online/post/2020/04/20/%E6%B5%8B%E8%AF%951/</id>
     <published>2020-04-20T13:18:01.000Z</published>
-    <updated>2020-04-20T13:24:56.389Z</updated>
+    <updated>2020-04-22T03:26:17.929Z</updated>
     
     <summary type="html">
     
